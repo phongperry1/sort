@@ -1,0 +1,5 @@
+Model\ReportStudent.class
+View\Validate.class
+Controller\StudentManage.class
+Model\Student.class
+View\Main.class
